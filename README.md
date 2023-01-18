@@ -7,5 +7,3 @@ this is me changing the readme file on my startup project.
 -Karl Nordgren
 
 In this assignment I learned about pushing and pulling items to GitHub. I also learned about resolving merge conflicts.
-
-I found it interesting how simple the process is to manage git.
