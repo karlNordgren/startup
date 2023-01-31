@@ -1,3 +1,36 @@
+Website Name : Ohpug.com
+1/31/2023
+Commands to remember
+➜  ssh -i ~/keys/production.pem ubuntu@ohpug.com
+sudo vi Caddyfile
+
+change security certificate using caddy to https
+myfunkychickens.click {
+   root * /usr/share/caddy
+   file_server
+   header Cache-Control no-store
+   header -etag
+   header -server
+   }
+
+
+startup.myfunkychickens.click {
+   reverse_proxy * localhost:4000
+   header Cache-Control no-store
+   header -server
+   header -etag
+   header Access-Control-Allow-Origin *
+}
+
+simon.myfunkychickens.click {
+   reverse_proxy * localhost:3000
+   header Cache-Control no-store
+   header -server
+   header -etag
+   header Access-Control-Allow-Origin *
+}
+
+
 http://18.221.114.145
 
 # startup
@@ -16,10 +49,6 @@ You don't have to climb Mt. Olympus, just go to the Ambrosia app, or Ambrosia.co
 
 Key Features:
 Food recommendatoins. 
-
-
-
-
 
 I am creating a merge conflict.
 This is my edit on GitHub.
