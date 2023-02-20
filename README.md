@@ -41,6 +41,9 @@ Sketch of Website Application
 https://ninjamock.com/s/6V6TVKx
 
 2/19/2023
+CSS practice. I was really impressed with the css animated watch. I was even more impressed with the coding for it. On the surface it seems so simple, but underneath the complexity is quite distinct. I wonder how long it would take to learn how to use all of those elements together to produce an output like that. 
+
+2/19/2023
 I am updated my startup README to talk about what I learned during the Simon assignment. 
 I learned that it is easy to build off of a project using github. It is easy to manipulate different elements of 
 the html to customize the project to my specifications. I also am having troply with deploy the simon project. It
