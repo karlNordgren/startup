@@ -40,6 +40,12 @@ http://18.221.114.145
 Sketch of Website Application
 https://ninjamock.com/s/6V6TVKx
 
+2/19/2023
+
+I am actually thinking of chaning the app. I want it to be able to connect people who speak different languages. Those who speak a "native language" can be the teachers
+and those who are trying to learn can be the "students" 
+I also want to have videos available. 
+
 1/27/2023
 
 Elevator Pitch:
