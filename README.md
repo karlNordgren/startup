@@ -47,6 +47,13 @@ the html to customize the project to my specifications. I also am having troply 
 is strange because it worked for my personal project. I am confused though. If the simon project and my personal page
 are both pointing to the same URL how will the TAs be able to see both projects. For this reason I have not deployed the simon project until I can talk with the TAs. 
 
+I recieve the error message like this:
+
+$ ./deployFiles.sh -k ~/keys/production.pem -h www.ohpug.com
+
+Missing required parameter.
+  syntax: deployFiles.sh -k <pem key file> -h <hostname> -s <service>
+
 2/19/2023
 
 I am actually thinking of chaning the app. I want it to be able to connect people who speak different languages. Those who speak a "native language" can be the teachers
