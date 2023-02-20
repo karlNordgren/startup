@@ -41,6 +41,13 @@ Sketch of Website Application
 https://ninjamock.com/s/6V6TVKx
 
 2/19/2023
+I am updated my startup README to talk about what I learned during the Simon assignment. 
+I learned that it is easy to build off of a project using github. It is easy to manipulate different elements of 
+the html to customize the project to my specifications. I also am having troply with deploy the simon project. It
+is strange because it worked for my personal project. I am confused though. If the simon project and my personal page
+are both pointing to the same URL how will the TAs be able to see both projects. For this reason I have not deployed the simon project until I can talk with the TAs. 
+
+2/19/2023
 
 I am actually thinking of chaning the app. I want it to be able to connect people who speak different languages. Those who speak a "native language" can be the teachers
 and those who are trying to learn can be the "students" 
