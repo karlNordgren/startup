@@ -49,7 +49,7 @@ are both pointing to the same URL how will the TAs be able to see both projects.
 
 I recieve the error message like this:
 
-$ ./deployFiles.sh -k ~/keys/production.pem -h www.ohpug.com
+$ ./deployFiles.sh -k ~/keys/production.pem -h ohpug.com
 
 Missing required parameter.
   syntax: deployFiles.sh -k <pem key file> -h <hostname> -s <service>
