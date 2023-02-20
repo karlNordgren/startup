@@ -41,6 +41,11 @@ Sketch of Website Application
 https://ninjamock.com/s/6V6TVKx
 
 2/19/2023
+CSS Practice
+It was fun to play around with the navbar and understand how those work. It was also fun to integrate a video into the page. I am guessing that there are only a select amount of videos that Youtube allows because I tried changing it and Youtube would say it wouldn't allow it. 
+I am wondering if there is a way around that, or if I have the video locally if I can use it just like an image. 
+
+2/19/2023
 CSS practice. I was really impressed with the css animated watch. I was even more impressed with the coding for it. On the surface it seems so simple, but underneath the complexity is quite distinct. I wonder how long it would take to learn how to use all of those elements together to produce an output like that. 
 
 2/19/2023
